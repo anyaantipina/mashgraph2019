@@ -1,0 +1,3 @@
+/Users/anna_antipina/Desktop/task_2_macos/build/CMakeFiles/rebuild_cache.dir
+/Users/anna_antipina/Desktop/task_2_macos/build/CMakeFiles/edit_cache.dir
+/Users/anna_antipina/Desktop/task_2_macos/build/CMakeFiles/main.dir
